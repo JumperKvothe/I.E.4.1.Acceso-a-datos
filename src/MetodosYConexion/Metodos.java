@@ -1,4 +1,4 @@
-package Colegio;
+package MetodosYConexion;
 
 public class Metodos {
 
